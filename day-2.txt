@@ -1,0 +1,8 @@
+Blog:
+window and document
+window:
+
+
+document: 
+
+with ex.
